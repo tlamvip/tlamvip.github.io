@@ -1,0 +1,115 @@
+{
+  "0": {
+    "id": "0",
+    "title": "",
+    "content": "404 Page not found :( The requested page could not be found.",
+    "url": "http://localhost:4000/page/404.html",
+    "relUrl": "/404.html"
+  },
+  "1": {
+    "id": "1",
+    "title": "About",
+    "content": "About The MSX UX team created these Guidelines to help our organization deliver usable, elegant and delightful user experiences for our end users. They’re intended for use by anyone involved in the design and development of our services and applications. test",
+    "url": "http://localhost:4000/page/about",
+    "relUrl": "/about"
+  },
+  "2": {
+    "id": "2",
+    "title": "Alert Banner",
+    "content": "Alert Banner States Critical Informational Major Minor Need Input Success Transitional Unknown Specifications",
+    "url": "http://localhost:4000/page/alertbanner.html",
+    "relUrl": "/alertbanner.html"
+  },
+  "3": {
+    "id": "3",
+    "title": "Buttons",
+    "content": "Buttons Basic Class Example button--primary button--secondary button--cta button--negative button--ghost Sizes Class Size Example button--small no minimum button--medium h: 4rem ; w:15rem button--large h: 4rem ; w: over 30rem Specifications",
+    "url": "http://localhost:4000/page/buttons",
+    "relUrl": "/buttons"
+  },
+  "4": {
+    "id": "4",
+    "title": "Checkbox",
+    "content": "Checkbox",
+    "url": "http://localhost:4000/page/checkbox",
+    "relUrl": "/checkbox"
+  },
+  "5": {
+    "id": "5",
+    "title": "Color Palette",
+    "content": "Color Palette Class HEX Color Name   ﻿sk-color-primary-1 #049fd9 CiscoBlue sk-color-primary-2 #34adde MedBlue sk-color-primary-3 #2b5592 DkBlue sk-color-primary-4 #1679b5 AzureBlue sk-color-primary-5 #c4d6ed IcyBlue sk-color-primary-6 #e8f5fb SkyBlue sk-color-secondary-1 #005c21 DeepGreen sk-color-secondary-2 #42a942 MedGreen sk-color-secondary-3 #abc233 SageGreen sk-color-secondary-4 #ffa000 Orange sk-color-secondary-5 #8b1001 DeepRed sk-color-secondary-6 #fff8c4 PaleYellow sk-color-black #000000 Black sk-color-gradient-1 #39393b DkGray1 sk-color-gradient-2 #58585b DkGray2 sk-color-gradient-3 #626469 DkGray3 sk-color-gradient-4 #767676 MedGray1 sk-color-gradient-5 #9e9ea2 MedGray2 sk-color-gradient-6 #a7a9ab LtGray1 sk-color-gradient-7 #c6c7ca LtGray2 sk-color-gradient-8 #dfdfdf LtGray3 sk-color-gradient-9 #e9e9e9 LtGray4 sk-color-gradient-10 #f2f2f2 LtGray5 sk-color-gradient-11 #e8ebf1 PaleGray1 sk-color-gradient-12 #f3f6f9 SmokeyBlue sk-color-white #ffffff White sk-color-status-neutral #64bbe3 StatusBlue sk-color-status-transitional #a0509e StatusPurple sk-color-status-normal #6cc04a StatusGreen sk-color-status-minor #ffcd00 StatusYellow sk-color-status-major #ff7300 StatusOrange sk-color-status-critical #cf2030 StatusRed sk-color-status-unknown #58585b DkGray2 sk-color-status-needsinput #a7a9ab LtGray1 Status Colors Status colors are usually reserved only for status. Please consult the UX team if you plan on using it for something else. Class HEX Color Name   sk-color-status-neutral #64bbe3 StatusBlue sk-color-status-transitional #a0509e StatusPurple sk-color-status-normal #6cc04a StatusGreen sk-color-status-minor #ffcd00 StatusYellow sk-color-status-major #ff7300 StatusOrange sk-color-status-critical #cf2030 StatusRed sk-color-status-unknown #58585b DkGray2 sk-color-status-needsinput #a7a9ab LtGray1",
+    "url": "http://localhost:4000/page/colorpalette",
+    "relUrl": "/colorpalette"
+  },
+  "6": {
+    "id": "6",
+    "title": "Widgets",
+    "content": "Widgets",
+    "url": "http://localhost:4000/page/widgets",
+    "relUrl": "/widgets"
+  },
+  "7": {
+    "id": "7",
+    "title": "Dashboard",
+    "content": "Dashboard",
+    "url": "http://localhost:4000/page/dashboard",
+    "relUrl": "/dashboard"
+  },
+  "8": {
+    "id": "8",
+    "title": "Dialog",
+    "content": "Dialog Basic Single-action button Pair-action button Single-action button with icon Pair-action button with icon",
+    "url": "http://localhost:4000/page/dialog",
+    "relUrl": "/dialog"
+  },
+  "9": {
+    "id": "9",
+    "title": "Dropdown",
+    "content": "Dropdown",
+    "url": "http://localhost:4000/page/dropdown",
+    "relUrl": "/dropdown"
+  },
+  "10": {
+    "id": "10",
+    "title": "Font Icons",
+    "content": "Font Icons Size Example vms_fi_collab16046-16 vms_fi_collab16046-24 vms_fi_collab16046-48 Download the font package and install it locally Each size may look the same but they’re not! If the design states an icon is 16px then implement it like vms_fi_collab16046-16. Do not cut corners.",
+    "url": "http://localhost:4000/page/fonticons",
+    "relUrl": "/fonticons"
+  },
+  "11": {
+    "id": "11",
+    "title": "",
+    "content": "",
+    "url": "http://localhost:4000/page/",
+    "relUrl": "/"
+  },
+  "12": {
+    "id": "12",
+    "title": "Layouts",
+    "content": "Layouts",
+    "url": "http://localhost:4000/page/layouts",
+    "relUrl": "/layouts"
+  },
+  "13": {
+    "id": "13",
+    "title": "Page Layout",
+    "content": "Page Layout See Basic Page Layout documentation for more information Specifications",
+    "url": "http://localhost:4000/page/pagelayout",
+    "relUrl": "/pagelayout"
+  },
+  "14": {
+    "id": "14",
+    "title": "Styles",
+    "content": "Styles",
+    "url": "http://localhost:4000/page/styles",
+    "relUrl": "/styles"
+  },
+  "15": {
+    "id": "15",
+    "title": "Typography",
+    "content": "Typography CiscoSansTT Cisco Sans TT is the base font for all typography in our design system. All widgets, layouts and so on will inherit these basic styles. Any widget-specific overrides will be documented in their respective pages. CiscoSansTT CiscoSansTT CiscoSansTT CiscoSansTT CiscoSansTT CiscoSansTT CiscoSansTT",
+    "url": "http://localhost:4000/page/typography",
+    "relUrl": "/typography"
+  }
+  
+}
